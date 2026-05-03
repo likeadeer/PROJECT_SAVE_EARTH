@@ -1,6 +1,7 @@
 Project Title: Project Save Earth    
 GitHub Link: https://github.com/likeadeer/PROJECT_SAVE_EARTH  
 Live Site Link: https://likeadeer.github.io/PROJECT_SAVE_EARTH/    
+Candidate Number: 2603815    
 <img width="6129" height="3175" alt="PROJECT SAVE EARTH" src="https://github.com/user-attachments/assets/c7a6d718-b39c-4a88-8bcb-45066379fdf3" />
         
 This project is exploring outer space to save Earth.  
